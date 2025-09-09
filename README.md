@@ -4,6 +4,7 @@
 **Módulo:** III - Ciencia de Datos [cite: 6, 7]
 **Profesor:** Fernando Ortega Camargo [cite: 8]
 **Alumno:** Luis Felipe Samaniego Bernal
+**Grupo:** 19
 
 ---
 
